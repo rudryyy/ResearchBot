@@ -1,0 +1,14 @@
+streamlit>=1.36
+requests>=2.31
+urllib3>=2.2
+arxiv>=2.1.0
+faiss-cpu>=1.7.4
+numpy>=1.26
+torch>=2.3
+sentence-transformers>=2.6
+PyMuPDF>=1.23
+networkx>=3.2
+matplotlib>=3.8
+graphviz>=0.20
+tqdm>=4.66
+google-generativeai>=0.8.0
